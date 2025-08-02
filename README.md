@@ -24,3 +24,4 @@ All deadlines are at 11:59 PM UTC on the corresponding day unless otherwise note
 Links:
 
 https://www.kaggle.com/competitions/playground-series-s5e7
+https://www.kaggle.com/code/les1781/predict-introvert-extrovert-playground-series-s5e7
